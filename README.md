@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/https://github.com/parthadebnath99)  
+
 ### Hi there 👋, I am Partha Debnath
 #### SQA Engineer 
 ![SQA Engineer ](https://pbs.twimg.com/profile_images/1662511459379859461/CvtAjT4i_400x400.jpg)
@@ -17,5 +17,4 @@ Skills: Manual testing, API testing, Performance testing, Automation testing
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/parthadebnath99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/partha-debnath1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Parthadebnath19/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Rudronil18)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/parthadebnath99)](https://github.com/ryo-ma/github-profile-trophy)
 
