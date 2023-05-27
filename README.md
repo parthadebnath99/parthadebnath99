@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, I am Partha Debnath
+#### SQA Engineer 
+![SQA Engineer ](https://pbs.twimg.com/profile_images/1662511459379859461/CvtAjT4i_400x400.jpg)
+
+A software professional who is highly knowledgeable in Quality Assurance methodologies and able to perform in a fast-paced
+agile environment. Experienced in all test activities including planning, test execution, and reporting test results to multiple
+teams across the organization. Highly organized individual with the ability to troubleshoot complex problems.
+
+Skills: Manual testing, API testing, Performance testing, Automation testing
+
+- 🌱 I’m currently learning Automation Testing 
+- 💬 Ask me about Software Quality Assurance 
+- 📫 How to reach me: parthodebnath578@gmail.com 
+- ⚡ Fun fact: Testing 
 
 
-**parthadebnath99/parthadebnath99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/parthadebnath99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/partha-debnath1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Parthadebnath19/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Rudronil18)  
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/parthadebnath99)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+![Profile views](https://gpvc.arturio.dev/https://github.com/parthadebnath99)  
