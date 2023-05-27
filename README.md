@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/https://github.com/parthadebnath99)  
 ### Hi there 👋, I am Partha Debnath
 #### SQA Engineer 
 ![SQA Engineer ](https://pbs.twimg.com/profile_images/1662511459379859461/CvtAjT4i_400x400.jpg)
@@ -18,4 +19,3 @@ Skills: Manual testing, API testing, Performance testing, Automation testing
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/parthadebnath99)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/parthadebnath99)  
