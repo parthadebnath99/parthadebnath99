@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I am Partha Debnath
 #### SQA Engineer 
-### ![](https://komarev.com/ghpvc/?username=parthadebnath99 & color=brightgreen)
+### ![](https://komarev.com/ghpvc/?username=parthadebnath99&color=brightgreen)
 ![SQA Engineer ](https://pbs.twimg.com/profile_images/1662511459379859461/CvtAjT4i_400x400.jpg)
 
 A software professional who is highly knowledgeable in Quality Assurance methodologies and able to perform in a fast-paced
