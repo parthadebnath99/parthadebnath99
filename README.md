@@ -1,7 +1,16 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthadebnath99&label=Profile%20views&color=0e75b6&style=flat" alt="parthadebnath99" /> </p>
+
 <h1 align="center">Hi 👋, I'm Partha Debnath</h1>
 <h3 align="center">A passionate SQA Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthadebnath99&label=Profile%20views&color=0e75b6&style=flat" alt="parthadebnath99" /> </p>
+
+
+![SQA Engineer ](https://pbs.twimg.com/profile_images/1662511459379859461/CvtAjT4i_400x400.jpg)
+
+A software professional who is highly knowledgeable in Quality Assurance methodologies and able to perform in a fast-paced
+agile environment. Experienced in all test activities including planning, test execution, and reporting test results to multiple
+teams across the organization. Highly organized individual with the ability to troubleshoot complex problems.
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthadebnath99" alt="parthadebnath99" /></a> </p>
 
